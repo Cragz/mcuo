@@ -1,5 +1,3 @@
-package com.craggeh.mcuo;
-
 import org.spongepowered.api.plugin.Plugin;
 import org.spongepowered.api.event.Listener;
 import org.spongepowered.api.event.game.state.GameStartedServerEvent;
